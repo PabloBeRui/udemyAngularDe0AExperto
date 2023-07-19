@@ -5,7 +5,7 @@ function classDecorator(constructor: any) {
   };
 }
 
-@classDecorator
+// @classDecorator
 export class SuperClass {
   public myProperty: string = "Abc123";
 
